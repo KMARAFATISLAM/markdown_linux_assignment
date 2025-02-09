@@ -37,4 +37,4 @@ touch file.txt
 | rm | Remove files/directories | `rm file.txt` |
 
 ### Images
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
+![Linux Logo](https://digitalbisa.id/uploads/articles/mengenal-linux-operasi-sistem-open-source-yang-paling-populer-tyKdanX3MF.jpg)
